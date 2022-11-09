@@ -10,7 +10,7 @@ Allowed quality settings are 144,240,360,480,720,1080.
 
 
 ## Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/reboot13-git/ytdl-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sivaparvathigoli5/ytdl-bot)
 
 Configure Dynos: Turn on `worker : main.js`
 
